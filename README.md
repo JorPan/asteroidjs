@@ -6,7 +6,7 @@ fork and clone this repo, and type lite-server to play!
 
 use the arrow keys to move and rotate the ship. the space key to shoot. 
 
-High score: 33380
+High score: 37900
 
 
 You can also play it on GitHub Pages Here: https://jorpan.github.io/asteroidjs/
